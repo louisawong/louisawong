@@ -2,20 +2,21 @@
 
 I am currently working on a plant-focused social website to connect global plant-lovers to find inspirations and to help find local plants to sell and trade.
 
-I am passionate about creating scalable, clean code that solves real-life problems. It is always incredible to manifest an idea to life through a beautiful and responsive space online. Working previously in Marketing, I truly value when functionality meets beautfil design as successs cannot exist without the other.
+I am passionate about creating scalable, clean code that solves real-life problems. It is always incredible to manifest an idea to life through a beautiful and responsive space online. Worked previously in Marketing, I truly value when functionality meets beautiful design.  Success cannot exist without the other.
 
 When I am not head-deep in code or learning a new technology, I am often in my crafting room, either crocheting, sewing, DIYing or woodworking. On the weekend, I enjoy my time hiking and chasing the next waterfall. Who said you can't go chasing waterfalls?! 🎶
 
 ## What I'm up to:
-- 🌱 Brushing up on Python & Django
-- 🧠 Join me on Leetcode and let's hit some challenges together
+- 🌱 Brushing up on Python
+- 🧠 Join me on Leetcode/CodeWars and let's hit some challenges together
 - ✨ Fun fact: I use to be a cake decorator!
-- 😉 Wireframing & building a recipe collector with Python & React Native, stay tuned!
+- 😉 Recently worked in the Real Estate Tech Industry at Guiker Solutions Inc.
 - ❓ Want to know more? Check out my [Portfolio](https://www.lwong.ca) / [LinkedIn](https://www.linkedin.com/in/louisa-wy-wong/)
 
 ## Favourite Techs:
 <code><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></code>
 <code><img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" /></code>
+<code><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=orange" /></code>
 <code><img alt="Python" src="https://img.shields.io/badge/-Python-4584b6?style=for-the-badge&logo=python&logoColor=white" /></code>
 <code><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=for-the-badge&logo=react&logoColor=white" /></code>
 <code><img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
