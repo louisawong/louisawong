@@ -1,6 +1,6 @@
 ### Hi there 👋! I'm Louisa, a full stack developer based in Cambridge, Ontario.
 
-I am currently working on at Guiker Solutions trying to revolutionalize how our generation looks at real-estate investments.
+I am currently working at Guiker Solutions trying to revolutionalize how our generation looks at real-estate investments.
 
 I am passionate about creating scalable, clean code that solves real-life problems. It is always incredible to manifest an idea to life through a beautiful and responsive space online. As a veteren in the creative space, I truly value when functionality meets beautiful design.  Success cannot exist without the other.
 
