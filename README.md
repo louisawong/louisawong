@@ -1,16 +1,15 @@
-### Hi there 👋! I'm Louisa, a full stack developer based in Toronto.
+### Hi there 👋! I'm Louisa, a full stack developer based in Cambridge, Ontario.
 
-I am currently working on a plant-focused social website to connect global plant-lovers to find inspirations and to help find local plants to sell and trade.
+I am currently working on at Guiker Solutions trying to revolutionalize how our generation looks at real-estate investments.
 
-I am passionate about creating scalable, clean code that solves real-life problems. It is always incredible to manifest an idea to life through a beautiful and responsive space online. Worked previously in Marketing, I truly value when functionality meets beautiful design.  Success cannot exist without the other.
+I am passionate about creating scalable, clean code that solves real-life problems. It is always incredible to manifest an idea to life through a beautiful and responsive space online. As a veteren in the creative space, I truly value when functionality meets beautiful design.  Success cannot exist without the other.
 
-When I am not head-deep in code or learning a new technology, I am often in my crafting room, either crocheting, sewing, DIYing or woodworking. On the weekend, I enjoy my time hiking and chasing the next waterfall. Who said you can't go chasing waterfalls?! 🎶
+When I am not coding or learning about a new technology, I am often in my crafting room, either crocheting, painting, or DIYing. On the weekend, I enjoy my time hiking and chasing the next waterfall with my furry best friend. Who said you can't go chasing waterfalls?! 🎶
 
 ## What I'm up to:
-- 🌱 Brushing up on Python
+- 🌱 Learning more about Crypto and AI
 - 🧠 Join me on Leetcode/CodeWars and let's hit some challenges together
 - ✨ Fun fact: I use to be a cake decorator!
-- 😉 Recently worked in the Real Estate Tech Industry at Guiker Solutions Inc.
 - ❓ Want to know more? Check out my [Portfolio](https://www.lwong.ca) / [LinkedIn](https://www.linkedin.com/in/louisa-wy-wong/)
 
 ## Favourite Techs:
